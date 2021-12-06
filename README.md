@@ -8,4 +8,5 @@ The tools I love working with are:
 - Stimulus for sprinkles (✨) of Javascript
 - CSS and Figma for the design
 
-Here are some of my contributions:
+Here is my latest collaboration work, a web app for making a batch cooking menu by selecting from a choice of recipes:
+www.mybatchcooker.com
