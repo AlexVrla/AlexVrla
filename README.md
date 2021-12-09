@@ -6,9 +6,9 @@ The tools I *love* working with are:
 
 💎 Ruby, Ruby on Rails
 
-✨ Stimulus for sprinkles of Javascript
-
 👨‍🎨 (S)CSS and Figma for the design
+
+🏋️ Currently improving my skills in Javascript and React
 
 
 
