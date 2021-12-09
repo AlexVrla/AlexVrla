@@ -4,15 +4,15 @@
 
 ### The tools I *love* working with are:
 
-#### 💎 Ruby, Ruby on Rails
+ 💎 Ruby, Ruby on Rails
 
-#### 👨‍🎨 (S)CSS and Figma for the design
+ 👨‍🎨 (S)CSS and Figma for the design
 
-#### 🏋️ Currently improving my skills in Javascript and React
+ 🏋️ Currently improving my skills in Javascript and React
 
-#### 👨‍💻 All of my projects are available at https://troopl.com/alexandrevrla
+ 👨‍💻 All of my projects are available at https://troopl.com/alexandrevrla
 
 
 
-### 🔭 Here is my latest collaboration work: [MyBatchCooker](http://www.mybatchcooker.com/)
+ 🔭 Here is my latest collaboration work: [MyBatchCooker](http://www.mybatchcooker.com/)
    (work in progress)
