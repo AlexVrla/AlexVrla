@@ -10,6 +10,8 @@ The tools I *love* working with are:
 
 🏋️ Currently improving my skills in Javascript and React
 
+👨‍💻 All of my projects are available at https://troopl.com/alexandrevrla
+
 
 
 🔭 Here is my latest collaboration work: [MyBatchCooker](http://www.mybatchcooker.com/)
