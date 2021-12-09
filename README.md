@@ -12,5 +12,5 @@ The tools I *love* working with are:
 
 
 
-🔭 Here is my latest collaboration work: [mybatchcooker.com](www.mybatchcooker.com)
+🔭 Here is my latest collaboration work: [MyBatchCooker](https://www.mybatchcooker.com)
    (work in progress)
