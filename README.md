@@ -10,3 +10,6 @@ The tools I love working with are:
 
 Here is my latest collaboration work, a web app for making a batch cooking menu by selecting from a choice of recipes:
 www.mybatchcooker.com
+
+Languages and Tools:
+css3 heroku html5 javascript linux mysql photoshop postgresql rails ruby
