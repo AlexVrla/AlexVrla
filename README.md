@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi ! 👋
 
 ## My name is Alexandre, I'm a Ruby on Rails developer
 
