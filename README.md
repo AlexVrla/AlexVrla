@@ -9,7 +9,7 @@
 
 🏋️ Currently improving my skills in Javascript and React, and building a clone of twitter with Ruby on Rails
 
-🧑‍💻 All of my web projects are available at https://troopl.com/alexandrevrla
+🧑‍💻 Some of my web projects are available at https://troopl.com/alexandrevrla
 
  🔭 And here is my latest collaboration work: [MyBatchCooker](http://www.mybatchcooker.com/)
    (work in progress) 👷‍♂️
