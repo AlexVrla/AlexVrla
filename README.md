@@ -7,7 +7,7 @@
 - (S)CSS and Figma for the design 👨‍🎨
 
 
-🏋️ Currently improving my skills in Javascript and React, and building a clone of twitter with Ruby on Rails
+🏋️ Currently building a clone of twitter with Ruby on Rails, next up: improving my skills in Javascript and React.
 
 🧑‍💻 Some of my web projects are available at https://troopl.com/alexandrevrla
 
