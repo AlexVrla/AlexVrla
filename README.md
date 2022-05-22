@@ -4,7 +4,6 @@
 
 ### The tools I *love* working with are:
 - Ruby, Ruby on Rails 💎
-- (S)CSS and Figma for the design 👨‍🎨
-
+- CSS and Slim 👨‍🎨
 
 🏋️ Currently putting my Ruby on Rails skills into practice for Reporting21, next up: improving my skills in Javascript, code in React and NodeJS
