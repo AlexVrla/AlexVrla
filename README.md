@@ -8,17 +8,6 @@ The tools I love working with are:
 <p>🔭 I'm currently working on Reporting21</p>
 <p>🌱 I'm currently learning JS, React and NodeJS</p>
 <p>📫 How to reach me? alexandre.vrla@gmail.com</p>
-<p>Know about my experiences <a href="https://www.linkedin.com/in/alexandre-vrla/">here</a></p>
-
-## 💻 Skills
-<p>
-Ruby, JavaScript, HTML, CSS
-</p>
-
-## 👥 Connect With Me
-<p>
-https://www.linkedin.com/in/alexandre-vrla/
-</p>
 
 ## 💻 Skills
 <p>
@@ -34,15 +23,6 @@ https://www.linkedin.com/in/alexandre-vrla/
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexandre-vrla/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=AlexVrla">
-</p>
 
 ## 📊 Github Status
 
