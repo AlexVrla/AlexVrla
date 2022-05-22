@@ -7,9 +7,4 @@
 - (S)CSS and Figma for the design 👨‍🎨
 
 
-🏋️ Currently building a clone of twitter with Ruby on Rails, next up: improving my skills in Javascript and React.
-
-🧑‍💻 Some of my web projects are available at https://troopl.com/alexandrevrla
-
- 🔭 And here is my latest collaboration work: [MyBatchCooker](http://www.mybatchcooker.com/)
-   (work in progress) 👷‍♂️
+🏋️ Currently putting my Ruby on Rails skills into practice for Reporting21, next up: improving my skills in Javascript, code in React and NodeJS
