@@ -6,7 +6,7 @@ The tools I love working with are:
 
 ## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on Reporting21</p>
-<p>🌱 I'm currently learning JS, React and NodeJS</p>
+<p>🌱 I'm currently learning Typescript, React and Node.js</p>
 <p>📫 How to reach me? alexandre.vrla@gmail.com</p>
 
 ## 💻 Skills
