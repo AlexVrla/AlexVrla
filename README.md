@@ -1,4 +1,6 @@
-# Hi there 👋, My name is Alex, I'm a Ruby on Rails developer
+# Hi there 👋, My name is Alex
+
+<em>Ruby on Rails developer</em>
 
 The tools I love working with are:
 - Ruby on Rails 💎
