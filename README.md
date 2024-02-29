@@ -2,12 +2,8 @@
 
 <em>Ruby on Rails developer</em>
 
-The tools I love working with are:
-- Ruby on Rails 💎
-- CSS and Slim 👨‍🎨
-
-<p>🔭 I'm currently working on Reporting21</p>
-<p>🌱 I'm currently learning Typescript, React and Node.js</p>
+<p>🔭 I'm currently working as software engineer for Reporting21</p>
+<p>🌱 and learning React on the side</p>
 <p>📫 How to reach me? alexandre.vrla@gmail.com</p>
 
 
