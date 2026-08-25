@@ -4,7 +4,7 @@
 
 The tools I love working with are: 
 - Ruby on Rails
-- PostgreSQL/MySQL
+- PostgreSQL / MySQL
 - RSpec
 - API REST
 - Sidekiq/Redis
