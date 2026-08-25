@@ -7,7 +7,7 @@ The tools I love working with are:
 - PostgreSQL / MySQL
 - RSpec
 - API REST
-- Sidekiq/Redis
+- Redis / Sidekiq
 <p>🔭 4+ years building production Rails applications — most recently on Reporting21, a SaaS ESG reporting platform</p>
 <p>📫 How to reach me? alexandre.vrla@gmail.com</p>
 
